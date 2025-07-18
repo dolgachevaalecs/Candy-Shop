@@ -13,7 +13,8 @@ const ASSETS_TO_CACHE = [
   '/img/11.jpg',
   '/img/12.jpg',
   '/img/13.jpg',
-  '/img/14.jpg'
+  '/img/14.jpg',
+  '/logo1.png'
 ];
 
 self.addEventListener('install', (event) => {
