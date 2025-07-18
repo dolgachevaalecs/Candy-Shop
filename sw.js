@@ -2,14 +2,14 @@ const CACHE_NAME = 'candy-shop-cache-v1';
 const ASSETS_TO_CACHE = [
     '/',
     '/index.html',
-    '/css/main.css',
-    '/img/choco.jpg',
-    '/img/strawb.png',
-    '/img/cake.png',
-    '/img/byket.png',
-    '/img/sweets.png',
-    '/img/home.png',
-    '/icon/logo1.png'
+    '/main.css',
+    '/choco.jpg',
+    '/strawb.png',
+    '/cake.png',
+    '/byket.png',
+    '/sweets.png',
+    '/home.png',
+    '/logo1.png'
 ];
 
 self.addEventListener('install', (event) => {
