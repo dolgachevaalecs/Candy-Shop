@@ -1,0 +1,34 @@
+header { 
+	width:80%;
+	height:217px;
+	border: 4px double red; 
+	margin: 0 auto;
+}
+#menu {	width:220px;
+	height:100%;
+	float:left;
+}
+#content { 
+	height:80%;
+	width:80%;
+	background: #d2ed9f;
+	margin: 0 auto;
+}
+#content p { 
+font-family: Verdana;
+font-size: 20pt;
+font-weight: bold;
+}
+#footer {	width:1000px;
+	background: yellow;
+}
+
+a {
+	font-size:18pt;
+	margin: 250 0 0 15;
+}
+
+ul li {
+	 list-style-type: none;
+}
+
